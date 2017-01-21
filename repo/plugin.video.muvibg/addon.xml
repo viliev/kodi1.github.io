@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="plugin.video.muvibg" name="ФИЛМИ" version="0.1.6" provider-name="Majide">
+  <requires>
+  	<import addon="xbmc.python" version="2.19.0"/>
+  	<import addon="script.module.urlresolver"/>
+  	<import addon="plugin.video.youtube"/>
+  	<import addon="script.module.feedparser"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+  	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary lang="bg">Приставка за гледане на филми от muvibg.com, filmisub.com и filmi7.com</summary>
+  	<summary lang="en">Addon for watching movies from muvibg.com, filmisub.com and filmi7.com</summary>
+	<description lang="bg">Приставка за гледане на филми при поискване от muvibg.com, filmisub.com и filmi7.com. Чуждестранните филми имат вградени български субтитри. Препоръчително е използването на широколентова интернет връзка!</description>
+  	<description lang="en">Addon for watching on demand movies from muvibg.com, filmisub.com and filmi7.com. Foreign films have a built in bulgarian subtitles. Broadband internet connection is recomended!</description>
+  	<disclaimer lang="bg">Някои елементи на тази приставка, може да не са легални в държавата ви - проверете и инсталирайте на ваша отговорност. Приставката се разпространява под GPL2 лиценз.</disclaimer>
+  	<disclaimer lang="en">Some parts of this addon may not be legal in your country of residence - please check with your local laws before installing. The plugin is distributed under GPL2 license.</disclaimer>
+  	<language>bg</language>
+  	<platform>all</platform>
+  	<forum>https://kodibg.org/forum/thread-20.html</forum>
+  	<website>https://kodibg.org</website>
+  	<email></email>
+  	<broken lang="bg">По технически причини, линковете към видеата вече не се поддържат в Коди и затова разработката на тази приставка се преустановява</broken>
+  	<broken lang="en">Discontinued addon development</broken>
+  </extension>
+</addon>
