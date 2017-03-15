@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<addon id="plugin.video.brigada" name="BRIGADA" version="0.3.24" provider-name="Majide">
+<addon id="plugin.video.brigada" name="BRIGADA" version="0.3.25" provider-name="Majide">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" version="1.1.0"/>
 	<import addon="script.module.feedparser"/>
 	<import addon="plugin.video.youtube"/>
 	<import addon="plugin.video.vimeo"/>
@@ -20,7 +19,7 @@
   	<language>bg</language>
   	<platform>all</platform>
   	<forum>https://kodibg.org/forum/thread-10.html</forum>
-  	<news>Поправен е подкаста AXN Player; Поправки в IPTV раздела</news>
+  	<news>Поправки в IPTV раздела</news>
 	<assets>
 	   <icon>resources/icon.png</icon>
        <fanart>resources/fanart.jpg</fanart>
