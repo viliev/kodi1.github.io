@@ -438,7 +438,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.vbox7" name="VBOX7" version="0.3.13" provider-name="Majide">
+<addon id="plugin.video.vbox7" name="VBOX7" version="0.3.14" provider-name="Majide">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -456,7 +456,7 @@
   	<platform>all</platform>
   	<forum>https://kodibg.org/forum/thread-12.html</forum>
   	<website>http://vbox7.com</website>
-  	<news>Реконструирано е основното меню; Добавен е тематичен списък с авторски канали; Функцията за абониране към конкретен потребител в настройките е разширена и вече поддържа до 8 различни акаунта</news>
+  	<news>Обновени икони и добавени метаданни за пълна интеграция с Estuary - скин по подразбиране в Kodi 17 и следващи версии; Добавена е настройка за предпочитаното качество на видеата; Премахната е класацията "Избор на редактора"</news>
 	<assets>
 	   <icon>resources/icon.png</icon>
        <fanart>resources/fanart.jpg</fanart>
