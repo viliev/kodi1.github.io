@@ -438,7 +438,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.vbox7" name="VBOX7" version="0.3.14" provider-name="Majide">
+<addon id="plugin.video.vbox7" name="VBOX7" version="0.3.15" provider-name="Majide">
   <requires>
   	<import addon="xbmc.python" version="2.1.0"/>
   </requires>
