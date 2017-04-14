@@ -27,7 +27,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.bscfusion" name="Fusion TV" version="0.0.2v" provider-name="kodi1">
+<addon id="plugin.program.bscfusion" name="Fusion TV" version="0.0.2w" provider-name="kodi1">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
     <import addon="script.module.requests" version="1.1.0"/>
@@ -763,9 +763,10 @@ use it instead of this addon. All rights on content are reserved by Rakuten.</di
     </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="3.0.29" provider-name="tvaddons.ag, Eldorado">
+<addon id="script.module.urlresolver" name="URLResolver" version="3.0.30" provider-name="tvaddons.ag, Eldorado">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="plugin.video.youtube" optional="true" />
 	</requires>
 	<extension point="xbmc.python.module" library="lib" />
 	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
