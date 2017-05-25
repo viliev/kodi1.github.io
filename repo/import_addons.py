@@ -52,7 +52,7 @@ addons_url_list = [
     "https://github.com/harrygg/plugin.video.bgcameras/archive/master.zip",
     "https://github.com/harrygg/plugin.video.gong.play/raw/master/plugin.video.gong.play.zip",
     "https://github.com/harrygg/plugin.video.slavishow/raw/master/plugin.video.slavishow.zip",
-    "https://github.com/harrygg/btvplus/raw/master/plugin.video.btvplus.zip",
+    "https://github.com/harrygg/plugin.program.btvplus/archive/master.zip",
     "https://github.com/harrygg/plugin.program.freebgtvs/archive/master.zip",
     "https://github.com/harrygg/plugin.program.bgplaylist/archive/master.zip",
     "https://github.com/harrygg/plugin.program.tvbgpvr.backend/archive/master.zip",
