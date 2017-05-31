@@ -54,7 +54,6 @@ addons_url_list = [
     "https://github.com/harrygg/plugin.video.slavishow/raw/master/plugin.video.slavishow.zip",
     "https://github.com/harrygg/plugin.video.btvplus/archive/master.zip",
     "https://github.com/harrygg/plugin.program.freebgtvs/archive/master.zip",
-    "https://github.com/harrygg/plugin.program.bgplaylist/archive/master.zip",
     "https://github.com/harrygg/plugin.program.tvbgpvr.backend/archive/master.zip",
     "https://www.andromeda.eu.org/kodipermalink/plugin.video.brigada.zip",
     "https://www.andromeda.eu.org/kodipermalink/plugin.video.nova.play.zip",
